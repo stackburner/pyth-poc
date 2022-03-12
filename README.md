@@ -8,10 +8,9 @@ When we think about trading processes latency and speed
 is key. The Pyth-Network is able to leverage the speed of 
 the Solana chain (compared to the rather "slow" Ethereum 
 chain) and provide low-latency consensus market data which 
-is the first step towards an infrastructure where market 
+is imperative towards an infrastructure where market 
 data is not a heavily monetized property of centralized 
 vendors anymore but available to everyone at minimum latency.
-
 
 ### The Idea
 Creating an application that is able to consume market data 
