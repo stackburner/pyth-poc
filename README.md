@@ -42,3 +42,5 @@ Solana chain:
 The Pyth-Network 
 [documentation](https://docs.pyth.network/#consumers) 
 was of great help in setting this up.
+Please also see the 
+[whitepaper](https://pythnetwork.mypinata.cloud/ipfs/QmZyXccxUfhHjqHevkhWXKw5zWcnFj3NY4JvnrXbkeAEhw).
